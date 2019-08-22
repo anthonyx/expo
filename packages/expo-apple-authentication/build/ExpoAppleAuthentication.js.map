@@ -1,0 +1,1 @@
+{"version":3,"file":"ExpoAppleAuthentication.js","sourceRoot":"","sources":["../src/ExpoAppleAuthentication.ts"],"names":[],"mappings":"","sourcesContent":["export * from '@react-native-community/apple-authentication';\n"]}
